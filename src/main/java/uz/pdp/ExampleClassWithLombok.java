@@ -9,5 +9,11 @@ import lombok.*;
 @ToString
 public class ExampleClassWithLombok {
     private String name;
+
+
+
+
+
+
     private int age;
 }
